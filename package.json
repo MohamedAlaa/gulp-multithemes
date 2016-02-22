@@ -1,0 +1,25 @@
+{
+  "name": "gulp-multithemes",
+  "version": "1.0.0",
+  "description": "Experiment for compiling multiple themes styles and scripts. — Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohamedAlaa/gulp-multithemes.git"
+  },
+  "keywords": [
+    "gulp",
+    "multiple",
+    "themes",
+    "themes"
+  ],
+  "author": "Mohamed A. Hassan <m@be-genius.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MohamedAlaa/gulp-multithemes/issues"
+  },
+  "homepage": "https://github.com/MohamedAlaa/gulp-multithemes#readme"
+}
